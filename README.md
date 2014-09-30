@@ -9,7 +9,7 @@ Scripts
 -------
 
 * [espn.go.com](https://github.com/srdavis/userscripts/tree/master/espn.go.com)
-  - [fantasy-plus.user.js](https://github.com/srdavis/userscripts/raw/master/espn.go.com/fantasy-plus.user.js) - Adds weekly projections from Fantasypros.com and FantasySharks to ESPN
+  - [fantasy-plus.user.js](https://github.com/srdavis/userscripts/raw/master/espn.go.com/fantasy-plus.user.js) - Adds weekly projections from fantasypros and fantasysharks.
 
 
 Install
@@ -24,7 +24,7 @@ Install
 
 ###Instructions
 
-1. Once you have a userscript extension installed in your browser, browse to a subdirectory in this repository.
+1. Once you have a userscript extension installed in your browser, browse to a subdirectory in this repo.
 2. Open a script file (ends with ".user.js"), then open the raw display.
 3. Accept installation of the script.
 
