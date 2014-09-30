@@ -4,6 +4,8 @@
 // @description  Adds weekly projections from Fantasypros.com (PFF, CBS, NumberFire, etc.) and FantasySharks (for D/ST and IDP) to fantasy sites. Firefox userscript port of Google Chrome extension FantasyPlus by flipperbw (https://github.com/flipperbw/FantasyPlus).
 // @author       srdavis
 // @version      1.2.1
+// @downloadURL  https://github.com/srdavis/userscripts/raw/master/espn.go.com/fantasy-plus.user.js
+// @updateURL    http://bit.ly/fantasyplus
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 // @include      http://www.fantasypros.com/*
 // @include      http://www.fantasysharks.com/*
