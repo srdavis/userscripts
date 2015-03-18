@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Intelligent Form Fill
 // @namespace    https://github.com/srdavis/userscripts
-// @description  Fills forms with appropriate random data. Press Ctrl+Shift+Alt+F to execute when prompted. (sourced from http://userscripts-mirror.org/scripts/show/2560)
+// @description  Fills forms with appropriate random data. Press Ctrl+Shift+Alt+F to execute when prompted.
 // @author       srdavis
 // @version      1.1.2
 // @downloadURL  https://github.com/srdavis/userscripts/raw/master/common/intelligent-form-fill.user.js
