@@ -5,7 +5,7 @@
 // @author       srdavis
 // @version      1.2.1
 // @downloadURL  https://github.com/srdavis/userscripts/raw/master/espn.go.com/fantasy-plus.user.js
-// @updateURL    http://bit.ly/fantasyplus
+// @updateURL    https://github.com/srdavis/userscripts/raw/master/espn.go.com/fantasy-plus.user.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 // @include      http://www.fantasypros.com/*
 // @include      http://www.fantasysharks.com/*
