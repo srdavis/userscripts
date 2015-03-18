@@ -11,7 +11,7 @@ Scripts
 * [espn.go.com](https://github.com/srdavis/userscripts/tree/master/espn.go.com)
   - [fantasy-plus.user.js](https://github.com/srdavis/userscripts/raw/master/espn.go.com/fantasy-plus.user.js) - Adds weekly projections from fantasypros and fantasysharks.
 * [common](https://github.com/srdavis/userscripts/tree/master/common)
-  - [intelligent-form-fill.js](https://github.com/srdavis/userscripts/raw/master/common/intelligent-form-fill.user.js) - Fills forms with appropriate random data. Press Ctrl+Shift+Alt+F to execute when prompted. Useful for reward survey sites like http://www.rewardsurvey.com. (sourced from http://userscripts-mirror.org/scripts/show/2560)
+  - [intelligent-form-fill.js](https://github.com/srdavis/userscripts/raw/master/common/intelligent-form-fill.user.js) - Auto fills forms with appropriate random data. Press Ctrl+Shift+Alt+F to execute when prompted. Useful for reward survey sites like http://www.rewardsurvey.com. (sourced from http://userscripts-mirror.org/scripts/show/2560)
 
 
 Install
